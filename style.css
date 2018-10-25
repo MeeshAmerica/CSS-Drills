@@ -1,0 +1,75 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: lightgrey;
+}
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+.boxes {
+    display: block;
+    margin: 5px 5px;
+    padding: 10px 10px 5px 5px;
+    border: 2px solid green;
+    border-radius: 5px;
+    width: 20%;
+}
+a:hover {
+    cursor: pointer;
+    color: pink;
+    font-weight: bold;
+}
+#box1 {
+    background-color: cornflowerblue;
+}
+#box2 {
+    background-color: blueviolet;
+}
+#box3 {
+    background-color: brown;
+}
+#box4 {
+    background-color: darksalmon;
+}
+#container {
+    position: relative;
+
+}
+.fakeimage {
+    width: 25px;
+    height: 40px;
+    background-color: olivedrab;
+    display: inline-block;
+}
+h2 {
+    display: inline-block;
+}
+h1 {
+    color: hotpink;
+}
+.blue-font {
+    color:blue;
+}
+.green-font {
+    color: green;
+}
+#rank1 {
+    color: pink;
+}
+#rank2 {
+    color: purple;
+}
+#rank3 {
+    color:magenta;
+}
+#rank4 {
+    color: lightgreen;
+}
+#rank5 {
+    color:blueviolet;
+}
+.purple-font {
+    color:purple;
+}
+.border {
+    border: 25px solid black;
+}
